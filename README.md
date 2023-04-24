@@ -1,4 +1,4 @@
-# <div align="center">Hey 👋 I'm Richard, a full-stack software engineer 👨‍💻 from germany 🚀</div>  
+# <div align="center">Hey 👋 I'm Richard, a full-stack software engineer 👨‍💻 from germany</div>  
   
 
 </br>
