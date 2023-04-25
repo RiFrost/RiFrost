@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ri-frost)
 [![Mail](https://custom-icon-badges.demolab.com/badge/ri.frost@web.de-darkgrey?style=for-the-badge&logo=personal_mail&logoColor=white)](mailto:ri.frost@web.de)
 
-- ✨ Creating bugs since 2015  
+- ✨ Creating bugs since 2014  
   
 
 - 📚  I’m currently learning NextJs and Nuxt
