@@ -10,10 +10,7 @@
 - ✨ Creating bugs since 2016  
   
 
-- 📚  I’m currently learning NextJs and Nuxt
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 📚  I’m currently learning Angular
   
 
 <br/>  
