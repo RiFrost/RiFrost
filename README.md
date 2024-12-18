@@ -10,7 +10,7 @@
 - ✨ Creating bugs since 2016  
   
 
-- 📚  I’m currently learning Angular
+- 📚  I’m currently learning Angular & GO
   
 
 <br/>  
